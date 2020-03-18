@@ -89,6 +89,6 @@ def number_not0_loop(num1):
 #Personal Function) Create a function that makes negative numbers positive
 def value_swap(num1):
     if(num1 < 0):
-        print(num1+(num1*2))
+        print(num1+(num1*-2))
     else:
         print("The number is positive.")
